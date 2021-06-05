@@ -10,7 +10,7 @@ import Dashboard from './components/Dashboard'
 function App() {
   return (
     <div className="App">
-     <Router>
+     <Router basename="/musictest">
         <Switch>
           <Route path="/redirect" component={Redirect} />
           <Route path="/play" component={Dashboard} />
