@@ -35,8 +35,8 @@ const styles = () => ({
     marginLeft: '20px',
     marginRight: '20px',
     '@media only screen and (max-width:960px)': {
-      marginBottom: '20px',
-      fontSize: '35px'
+      marginBottom: '15px',
+      fontSize: '20px'
     }
   },
   image: {
@@ -51,8 +51,10 @@ const styles = () => ({
       boxShadow: 'inset 0 0 0 1000px rgba(256,256,256,.1)'
     },
     '@media only screen and (max-width:960px)': {
-      height: '200px',
-      width: '200px',
+      height: '150px',
+      width: '150px',
+      minHeight: '150px',
+      minWidth: '150px',  
       marginLeft: '0px',
       marginRight: '0px',
     }
@@ -61,7 +63,12 @@ const styles = () => ({
     margin: '0px',    
     display: 'flex',
     alignItems: 'center',
-    flexDirection: 'column',
+    flexDirection: 'column',    
+    height: '425px',
+    '@media only screen and (max-width:960px)': {
+      height: '200px',
+    }
+
   },
   container: {
     display: 'flex',
@@ -82,7 +89,13 @@ const styles = () => ({
     marginTop:'15px',
     marginBottom: '15px',
     fontFamily: 'GothamMedium',
-    fontSize: '25px'
+    fontSize: '25px',
+    maxWidth: '300px',
+    '@media only screen and (max-width:960px)': {
+      fontSize: '14px',
+      marginTop:'8px',
+      marginBottom: '8px',
+    }
   },
   artistContainer: {
     width: '400px',
@@ -98,7 +111,7 @@ const styles = () => ({
     '@media only screen and (max-width:960px)': {
       width: '175px',
       height: '50px', 
-      fontSize: '12px'   
+      fontSize: '10px'   
     },
   },
   listContainer: {
@@ -121,7 +134,8 @@ const styles = () => ({
     margin: '10px',
     '@media only screen and (max-width:960px)': {
       width: '35px',
-      height: '35px',    
+      height: '35px', 
+      minWidth: '35px',   
     },
     
   },
@@ -168,7 +182,7 @@ const styles = () => ({
     display: 'flex',
     alignItems: 'center',
     '@media only screen and (max-width:960px)': {
-      width: '350px',
+      width: '300px',
     }
   },
   bar: {
@@ -183,7 +197,7 @@ const styles = () => ({
     color: '#8996A9',
     fontFamily: 'GothamMedium',
     '@media only screen and (max-width:960px)': {
-      marginLeft: '125px',
+      marginLeft: '100px',
     }
   }
 })
