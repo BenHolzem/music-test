@@ -4,8 +4,6 @@ import PropTypes from 'prop-types'
 
 const {
     REACT_APP_CLIENT_ID,
-    REACT_APP_AUTHORIZE_URL,
-    REACT_APP_REDIRECT_URL
   } = process.env;
   
 const handleLogin = () => {
