@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/musictest/static/css/main.058c82fa.chunk.css",
-    "main.js": "/musictest/static/js/main.0b34b55b.chunk.js",
-    "main.js.map": "/musictest/static/js/main.0b34b55b.chunk.js.map",
+    "main.js": "/musictest/static/js/main.965e0efc.chunk.js",
+    "main.js.map": "/musictest/static/js/main.965e0efc.chunk.js.map",
     "runtime-main.js": "/musictest/static/js/runtime-main.125fcc78.js",
     "runtime-main.js.map": "/musictest/static/js/runtime-main.125fcc78.js.map",
-    "static/js/2.f1b3849a.chunk.js": "/musictest/static/js/2.f1b3849a.chunk.js",
-    "static/js/2.f1b3849a.chunk.js.map": "/musictest/static/js/2.f1b3849a.chunk.js.map",
+    "static/js/2.b6b5f599.chunk.js": "/musictest/static/js/2.b6b5f599.chunk.js",
+    "static/js/2.b6b5f599.chunk.js.map": "/musictest/static/js/2.b6b5f599.chunk.js.map",
     "static/js/3.1a9eca24.chunk.js": "/musictest/static/js/3.1a9eca24.chunk.js",
     "static/js/3.1a9eca24.chunk.js.map": "/musictest/static/js/3.1a9eca24.chunk.js.map",
     "index.html": "/musictest/index.html",
     "static/css/main.058c82fa.chunk.css.map": "/musictest/static/css/main.058c82fa.chunk.css.map",
-    "static/js/2.f1b3849a.chunk.js.LICENSE.txt": "/musictest/static/js/2.f1b3849a.chunk.js.LICENSE.txt",
+    "static/js/2.b6b5f599.chunk.js.LICENSE.txt": "/musictest/static/js/2.b6b5f599.chunk.js.LICENSE.txt",
     "static/media/App.css": "/musictest/static/media/GothamPro-Medium.c54cabf4.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.125fcc78.js",
-    "static/js/2.f1b3849a.chunk.js",
+    "static/js/2.b6b5f599.chunk.js",
     "static/css/main.058c82fa.chunk.css",
-    "static/js/main.0b34b55b.chunk.js"
+    "static/js/main.965e0efc.chunk.js"
   ]
 }
