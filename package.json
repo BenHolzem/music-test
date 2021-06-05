@@ -2,7 +2,7 @@
   "name": "spotify-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://benholzem.github.io/spotify-app",
+  "homepage": "http://benholzem.github.io/musictest",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/styles": "^4.11.4",
