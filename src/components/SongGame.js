@@ -68,7 +68,7 @@ const styles = () => ({
     flexDirection: 'column',
     height: '425px',
     '@media only screen and (max-width:960px)': {
-      height: '320px',
+      height: '300px',
     }
   },
   container: {
@@ -90,7 +90,7 @@ const styles = () => ({
     marginTop:'15px',
     marginBottom: '15px',
     fontFamily: 'GothamMedium',
-    fontSize: '25px',
+    fontSize: '18px',
     maxWidth: '300px'
   },
   songContainer: {
