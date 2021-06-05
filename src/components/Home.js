@@ -3,7 +3,7 @@ import { withStyles } from '@material-ui/core/styles';
 import PropTypes from 'prop-types'
   
 const handleLogin = () => {
-    window.location = `https://accounts.spotify.com/authorize?client_id=bb9d7844643048029c7e6782505906cf&redirect_uri=http://localhost:3000/redirect&response_type=token&show_dialog=true&scope=user-top-read`;
+    window.location = `https://accounts.spotify.com/authorize?client_id=bb9d7844643048029c7e6782505906cf&redirect_uri=https://benholzem.github.io/musictest/redirect&response_type=token&show_dialog=true&scope=user-top-read`;
   };
 
 const styles = () => ({
